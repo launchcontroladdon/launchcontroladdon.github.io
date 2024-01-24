@@ -1,0 +1,1295 @@
+.check-the-docs1 {
+  position: absolute;
+  top: 47px;
+  left: 0%;
+  display: inline-block;
+  width: 100%;
+}
+.yep {
+  color: red;
+  margin-bottom: 230px;
+  margin-left: 20%;
+}
+.discord-button-11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px; 
+  background-color: var(--color-tomato);
+  cursor: pointer;
+}
+.go-to-documentation-container1 {
+  position: absolute;
+  top: 19.74%;
+  width: 100%;
+  line-height: 78%;
+}
+.go-to-documentation-button1 {
+  position: absolute;
+  top: 161px;
+  left: 25%;
+  width: 50%;
+  height: 76px;
+  font-size: var(--font-size-11xl);
+}
+.community1,
+.documentation2 {
+  font-size: var(--font-size-26xl);
+}
+.documentation2 {
+  position: absolute;
+  top: 10591px;
+  left: 0px;
+  border-radius: 10px; 
+  width: 100%;
+  height: 286px;
+  background-image: url(./public/documentation1@3x.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-white);
+}
+.community1 {
+  margin: 0;
+  color: var(--color-tomato);
+}
+.the-official-lc-container1 {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100px;
+}
+.discord-button-item {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  border-radius: 10px; 
+  background-color: var(--color-mediumslateblue-100);
+}
+.e0a6a49cf127bf92de1e2-icon-cly1 {
+  position: absolute;
+  height: 57.88%;
+  width: 15.19%;
+  top: 20.96%;
+  right: 78.37%;
+  bottom: 21.15%;
+  left: 6.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.join-our-discord1 {
+  line-height: 78%;
+}
+
+.join-our-discord-container1 {
+  position: absolute;
+  top: 22.5%;
+  left: 28.33%;
+}
+
+.discord-button1 {
+  position: absolute;
+  top: 160px;
+  left: 50%;
+  width: 264px;
+  height: 52px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.discord-button-offset {
+  position: absolute;
+  left: -133px;
+  width: 264px;
+  height: 52px;
+  cursor: pointer;
+}
+.discord2 {
+  position: absolute;
+  top: 10135px;
+  left: 0px;
+  border-radius: 10px; 
+  width: 100%;
+  height: 429px;
+  background-image: url(./public/discord1@3x.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-darkslategray);
+}
+.skr-cengil-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: .3s ease;
+  background: #f2f2f2;
+}
+
+.fade-container:hover .overlay {
+  opacity: 1;
+}
+
+.fade-container:hover .link-icon {
+  opacity: 1;
+}
+
+.blint-borsnyi-01-1-icon,
+.collage-sakra-cengil {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 512px;
+  height: 204px;
+}
+.blint-borsnyi-01-1-icon {
+  height: 100%;
+  width: 100.48%;
+  right: -0.48%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.collage-blint-borsnyi-01 {
+  position: absolute;
+  top: 0;
+  left: 521px;
+  width: 168px;
+  height: 204px;
+}
+.collage-alexandre-gouraud-01 {
+  position: absolute;
+  top: 536px;
+  left: 0;
+  width: 440px;
+  height: 198px;
+}
+.collage-diego-medusa-studios,
+.image-4-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  border-radius: 0 0 10px 0;
+}
+.image-4-icon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.collage-diego-medusa-studios {
+  top: 967px;
+  left: 249px;
+  width: 440px;
+  height: 130px;
+}
+.collage-alexandre-gouraud-02 {
+  position: absolute;
+  top: 536px;
+  left: 449px;
+  width: 240px;
+  height: 198px;
+}
+.michael-cochrane-2-icon {
+  position: absolute;
+  height: 99.53%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0.47%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.collage-michael-cochrane {
+  position: absolute;
+  top: 744px;
+  left: 249px;
+  width: 440px;
+  height: 214px;
+}
+.collage-lukas-demovic {
+  position: absolute;
+  top: 213px;
+  left: 257px;
+  width: 432px;
+  height: 312px;
+}
+.collage-blint-borsnyi-02,
+.collage-sergeant-sabir {
+  position: absolute;
+  top: 213px;
+  left: 0;
+  width: 248px;
+  height: 312px;
+}
+.collage-sergeant-sabir {
+  top: 744px;
+  width: 240px;
+  height: 352px;
+  border-radius: 0 0 0 10px;
+  overflow: hidden;
+}
+.community-gallery {
+  position: absolute;
+  top: 9006px;
+  left: 0px;
+  border-radius: 10px; 
+  overflow: hidden;
+  width: 100%;
+  height: 1103px;
+}
+
+.community-work-headline,
+.community-work1 {
+  position: absolute;
+  top: 20px;
+  right: 0%;
+  width: 100%;
+}
+.community-work-headline {
+  position: absolute;
+  top: 8906px;
+  left: 0px;
+  border-radius: 10px; 
+  width: 100%;
+  height: 80px;
+  background-image: url(./public/community-work-headline@3x.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-white);
+  font-family: var(--font-akira-expanded);
+}
+.ue5-1 {
+  position: absolute;
+  top: 206px;
+  left: 0;
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+  width: 334px;
+  height: 194px;
+}
+.hes-happy-to {
+  margin: 0;
+  color: var(--color-white);
+}
+.dave-the-driver-container {
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  display: inline-block;
+  width: 294px;
+}
+.everybody-needs-a {
+  margin: 0;
+}
+.everybody-needs-a-container {
+  position: absolute;
+  top: 74px;
+  left: 20px;
+  line-height: 25px;
+  color: var(--color-slategray);
+  display: inline-block;
+  width: 90%;
+}
+.image-15-icon {
+  position: absolute;
+  top: 212px;
+  left: 0;
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+  width: 330px;
+  height: 186px;
+  object-fit: cover;
+}
+.dave-the-driver {
+  position: absolute;
+  top: 1680px;
+  left: 356px;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  width: 330px;
+  height: 398px;
+}
+.car-models-included-container,
+.lc-comes-packed {
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  display: inline-block;
+  width: 296px;
+}
+.lc-comes-packed {
+  top: 74px;
+  line-height: 25px;
+  color: var(--color-slategray);
+}
+.promo-pics-02-1-icon {
+  position: absolute;
+  top: 213px;
+  left: 0;
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+  width: 336px;
+  height: 186px;
+  object-fit: cover;
+}
+.ackerman-steering1,
+.car-models,
+.headlights {
+  position: absolute;
+  top: 1680px;
+  left: 0;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  width: 336px;
+  height: 398px;
+}
+.ackerman-steering1,
+.headlights {
+  top: 1260px;
+  left: 356px;
+  width: 330px;
+}
+.ackerman-steering1 {
+  top: 1260px;
+  left: 0;
+  width: 336px;
+}
+.automatic-camber-container1 {
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  display: inline-block;
+  width: 296px;
+  height: 36px;
+}
+.camber-caster2 {
+  position: absolute;
+  top: 840px;
+  left: 0;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  width: 336px;
+  height: 398px;
+}
+.vid-detect-16-9-11 {
+  position: absolute;
+  top: 207px;
+  left: 0;
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+  width: 330px;
+  height: 191px;
+}
+.ground-detection4,
+.speedometer1 {
+  position: absolute;
+  top: 840px;
+  left: 356px;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  width: 330px;
+  height: 398px;
+}
+.speedometer1 {
+  top: 420px;
+}
+.vid-skidmarks-21 {
+  position: absolute;
+  top: 207px;
+  left: 0;
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+  width: 336px;
+  height: 190px;
+}
+.multi-workflow1,
+.skidmark,
+.unreal-export1 {
+  position: absolute;
+  top: 420px;
+  left: 0;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  width: 336px;
+  height: 398px;
+}
+.multi-workflow1,
+.unreal-export1 {
+  top: 0;
+  left: 356px;
+  width: 330px;
+}
+.unreal-export1 {
+  left: 0;
+  width: 336px;
+}
+.goodies3 {
+  position: absolute;
+  top: 6766px;
+  left: 0px;
+  width: 100%;
+  height: 2080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+
+
+.lots-of-extra-goodies,  
+.lots-of-extra1 {
+  position: absolute;
+  top: 20px;
+  right: 0%;
+  width: 100%;
+}
+.lots-of-extra-goodies {
+  top: 6666px;
+  left: 0px;
+  border-radius: 10px; 
+  width: 100%;
+  height: 80px;
+  background-image: url(./public/lots-of-extra-goodies@3x.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-white);
+  font-family: var(--font-akira-expanded);
+}
+
+.easy-and-art1 {
+  margin: 0;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.real-time-physics-easy-container1 {
+  position: absolute;
+  top: 41px;
+  left: 20px;
+  display: inline-block;
+  width: 649px;
+  font-size: var(--font-size-26xl);
+}
+.take-advantage-of-container1 {
+  position: absolute;
+  top: 158px;
+  left: 20px;
+  line-height: 25px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 90%;
+}
+.vid-physics-jump-21 {
+  position: absolute;
+  top: 238px;
+  left: -2px;
+  width: 100%;
+  height: 283px;
+}
+.ultimate-control-using1 {
+  position: absolute;
+  top: 581px;
+  left: 20px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 649px;
+}
+.vid-postfx-11 {
+  position: absolute;
+  top: 727px;
+  left: 0px;
+  width: 100%;
+  height: 278px;
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+}
+.sometimes-you-just1 {
+  position: absolute;
+  top: 647px;
+  left: 20px;
+  line-height: 25px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 90%;
+}
+.real-time-physics2 {
+  position: absolute;
+  top: 4469px;
+  left: 0px;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 1005px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.animate-like-a-container1 {
+  position: absolute;
+  top: 41px;
+  left: 20px;
+  display: inline-block;
+  width: 650px;
+  font-size: var(--font-size-26xl);
+}
+.vid-animation-user-11 {
+  position: absolute;
+  top: 746px;
+  left: 0px;
+  border-radius: 0 0 10px 10px;
+  overflow: hidden;
+  width: 100%;
+  height: 284px;
+}
+.make-it-your1 {
+  position: absolute;
+  top: 575px;
+  left: 20px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 649px;
+}
+.building-on-top-container1,
+.jumps-drifts-donuts-container1 {
+  position: absolute;
+  top: 158px;
+  left: 20px;
+  line-height: 22px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 90%;
+}
+.building-on-top-container1 {
+  top: 641px;
+  line-height: 25px;
+}
+.animate-like-a-boss2,
+.vid-animation-presets-11 {
+  position: absolute;
+  top: 232px;
+  left: 0;
+  width: 100%;
+  height: 283px;
+}
+.animate-like-a-boss2 {
+  top: 3420px;
+  left: 0px;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  height: 1029px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.lazy-rigging-one-click-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.lazy-rigging-one-click-container2 {
+  position: absolute;
+  top: 41px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  width: 649px;
+}
+.using-tags-lc-container1 {
+  position: absolute;
+  top: 158px;
+  left: 20px;
+  font-size: var(--font-size-mini);
+  line-height: 25px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 90%;
+}
+.lazy-rigging2,
+.vid-rigging-21 {
+  position: absolute;
+  top: 292px;
+  left: 0;
+  border-radius: 0, 0, 10px, 10px;
+  width: 100%;
+  height: 283px;
+  overflow: hidden;
+}
+.lazy-rigging2 {
+  top: 2829px;
+  left: 0px;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  height: 571px;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+}
+
+.featuring1,
+.featuring2 {
+  position: absolute;
+  top: 20px;
+  right: 0%;
+  width: 100%;
+}
+.featuring1 {
+  top: 2729px;
+  left: 0px;
+  border-radius: 10px; 
+  width: 100%;
+  height: 80px;
+  background-image: url(./public/lots-of-extra-goodies@3x.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-white);
+  font-family: var(--font-akira-expanded);
+}
+.vid-real-time-demo-04-11 {
+  position: absolute;
+  top: 163px;
+  left: 0px;
+  width: 100%;
+  height: 411px;
+}
+.adness1 {
+  color: var(--color-tomato);
+}
+.and-real-time-physics1 {
+  margin: 0;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.new-multi-car-madness-container1 {
+  position: absolute;
+  top: 694px;
+  left: 20px;
+  display: inline-block;
+  width: 650px;
+}
+.art-direction-in-container2 {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  width: 650px;
+  font-size: var(--font-size-26xl);
+}
+.vid-multi-16-9-21 {
+  position: absolute;
+  top: 779px;
+  left: 0;
+  width: 50%;
+  height: 222px;
+}
+.vid-physics-16-9-11 {
+  position: relative;
+  top: 779px;
+  left: 49.9%;
+  width: 50%;
+  height: 222px;
+}
+.span {
+  color: var(--color-white);
+}
+.page {
+  color: var(--color-slategray);
+}
+.check-the-full-release-log-in {
+  margin: 0;
+  color: var(--color-slategray);
+}
+.launch-control-15-container1 {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  line-height: 20px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 90%;
+  color: var(--color-white);
+}
+.discord-server,
+.documentation4 {
+  position: absolute;
+  top: 160px;
+  left: 207px;
+  line-height: 20px;
+  display: inline-block;
+  width: 112px;
+  cursor: pointer;
+}
+.discord-server {
+  top: 180px;
+  left: 136px;
+  width: 156px;
+  height: 34px;
+}
+.frame39 {
+  position: absolute;
+  top: 970px;
+  width: 100%;
+  height: 280px;
+  overflow: hidden;
+  font-size: var(--font-size-mini);
+  color: var(--color-mediumslateblue-200);
+}
+.model-by-the {
+  position: relative;
+  bottom: 28%; 
+  left: 3%;
+  font-size: 12px;
+  line-height: 20px;
+  display: inline-block;
+  font-weight: 500;
+  color: #d7d7d7;
+  text-align: left;
+}
+.overlay-text {
+  position: relative;
+  right: 0px;
+}
+.art-direction1 {
+  position: absolute;
+  top: 1397px;
+  left: 0px;
+  border-radius: 10px; 
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 1272px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+}
+.logo-plume {
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  left: 0%;
+  width: 50%;
+  height: 65px;
+  object-fit: contain;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.logo-design-real {
+  position: absolute;
+  text-align: right;
+  top: 8px;
+  right: 0%;
+  width: 50%;
+  height: 31px;
+  object-fit: contain;
+  cursor: pointer;
+  overflow: hidden;
+}
+.logo-experience {
+  position: absolute;
+  text-align: left;
+  top: 0;
+  left: 0%;
+  width: 50%;
+  height: 42px;
+  object-fit: contain;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.logo-mondlicht {
+  position: absolute;
+  text-align: right;
+  top: 0;
+  right: 0%;
+  width: 50%;
+  height: 100px;
+  object-fit: contain;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.brands-top {
+  position: absolute;
+  top: 50px;
+  right: 2%;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+}
+
+.brands-bottom {
+  position: absolute;
+  top: 200px;
+  right: 2%;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+}
+
+
+.designreal-1-icon1,
+.image-2-icon1 {
+  top: 22.8px;
+  left: 320px;
+  width: 115px;
+  height: 24px;
+}
+.designreal-1-icon1 {
+  top: 25.8px;
+  left: 482px;
+  height: 21px;
+}
+
+
+.porsche-logo-1-icon5,
+.porsche-logo-1-icon6 {
+  position: absolute;
+  top: 0;
+  left: 419.4px;
+  width: 152.4px;
+  height: 86.3px;
+  object-fit: cover;
+}
+.porsche-logo-1-icon6 {
+  top: 0.5px;
+  left: 0;
+  width: 152.2px;
+  height: 86.1px;
+}
+
+.legends-live-on-231108-11,
+.representative-logos1 {
+  position: absolute;
+  border-radius: 10px; 
+  width: 100%;
+}
+.representative-logos1 {
+  top: 1065px;
+  left: 0px;
+  height: 300px;
+  background-image: url(./public/representative-logos1@3x.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.legends-live-on-231108-11 {
+  width: 100%;
+  height: 1034px;
+  border-radius: 10px; 
+  overflow: hidden;
+}
+.should-be-fun1 {
+  margin: 0;
+  font-size: var(--font-size-26xl);
+}
+.animating-cars-should-container1 {
+  position: absolute;
+  top: 158px;
+  left: 0px;
+  display: inline-block;
+  width: 100%;
+  height: 108px;
+}
+.float-center {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.launch-control-strives-container1 {
+  position: absolute;
+  top: 935px;
+  left: 5%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-urbanist);
+  display: inline-block;
+  width: 90%;
+  color: var(--color-white);
+}
+.landingpage1,
+.lc-logo-icon1 {
+  position: absolute;
+  top: 59.4px;
+  left: 0%;
+  width: 100%;
+  height: 41.6px;
+}
+.landingpage1 {
+  top: 10px;
+  left: 0px;
+  width: 100%;
+  height: 1035px;
+  font-family: var(--font-akira-expanded);
+}
+.david-ring-small-13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl-5);
+  width: 101px;
+  height: 101px;
+  object-fit: cover;
+}
+.b2,
+.blank-line8 {
+  font-family: var(--font-urbanist);
+}
+.blank-line8 {
+  font-size: var(--font-size-xl);
+}
+.b2 {
+  color: var(--color-tomato);
+}
+.best-rigging-solution,
+.this-is-the {
+  font-family: var(--font-urbanist);
+  color: var(--color-white);
+}
+.best-rigging-solution {
+  font-weight: 900;
+  color: var(--color-tomato);
+}
+.this-is-the-best-rigging-solut2 {
+  font-size: var(--font-size-mini);
+}
+.frame-div {
+  position: absolute;
+  top: 144px;
+  left: 20px;
+  width: 90%;
+  height: 135px;
+}
+.artist-at-mondlicht {
+  line-height: 150%;
+}
+.all-features-you {
+  font-weight: 700;
+  font-family: var(--font-urbanist);
+  color: var(--color-tomato);
+}
+.david-ring-small-1-parent1 {
+  position: absolute;
+  top: 324px;
+  left: 20px;
+  width: 90%;
+  height: 171px;
+}
+.david-ring-small-1-parent2 {
+  position: absolute;
+  top: 540px;
+  left: 20px;
+  width: 90%;
+  height: 207px;
+}
+.dipl-designer-art-director {
+  margin: 0;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.i-have-tried {
+  font-family: var(--font-urbanist);
+}
+.skr-cengil-dipl-container {
+  position: absolute;
+  top: 1px;
+  left: 121px;
+  display: inline-block;
+  width: 75%;
+}
+.david-ring-small-1-parent3 {
+  position: absolute;
+  top: 792px;
+  left: 20px;
+  width: 90%;
+  height: 220px;
+}
+.quotes1,
+.what-do-the1 {
+  position: absolute;
+  left: 0px;
+}
+.what-do-the1 {
+  top: 40px;
+  left: 20px;
+  font-size: var(--font-size-26xl);
+  display: inline-block;
+  width: 90%;
+}
+.quotes1 {
+  top: 5499px;
+  border-radius: 10px; 
+  width: 100%;
+  height: 1120px;
+  background-image: url(./public/quotes1@3x.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.blendermarket-product-card-loc {
+  position: relative;
+  width: 100%;
+  max-width: 687px;
+  height: 10880px;
+  overflow-y: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-tomato);
+  font-family: var(--font-urbanist);
+}
+
+.video-mask{
+  width: 100%;
+  border-radius: 10px; 
+  overflow: hidden; 
+}
+
+
+.gallery-text-container{
+  position: absolute;
+  text-align: left;
+  font-size: 12px;
+  bottom: 4px;
+  left: 12px;
+  line-height: 2px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 100%;
+}
+
+.link-icon{
+  position: absolute;
+  text-align: right;
+  font-size: 12px;
+  bottom: 10px;
+  right: 12px;
+  display: inline-block;
+  width: 30px;
+  opacity: 0;
+  transition: .3s ease;
+}
+
+
+@media (max-width:550px){
+  .lots-of-extra1{
+    font-size: 15px;
+    top: 25px;
+}
+  .community-work1{
+    font-size: 18px;
+    top: 25px;
+  }
+  .featuring1{
+    top: 2729px;
+  }
+  .featuring2{
+    font-size: 18px;
+    top: 25px;
+  }
+  .what-do-the1{
+    font-size: 27px;
+    width: 75%;
+  }
+  .should-be-fun1{
+    font-size: 30px;
+  }
+  .animating-cars-should-container1{
+    font-size: 22px;
+  }
+  .model-by-the{
+    font-size: 6.5px;
+    bottom: 115px;
+  }
+  .launch-control-strives-container1{
+    font-size: 14px;
+  }
+  .goodies3{
+    font-size: 12px;
+  }
+  .real-time-physics2{
+    font-size: 10px;
+  }
+  .animate-like-a-boss2{
+    font-size: 10px;
+  }
+  .using-tags-lc-container1{
+    font-size: 10px;
+  }
+  .frame39{
+    font-size: 10px;
+  }
+  .this-is-the-best-rigging-solut2{
+    font-size: 10px;
+  }
+  .dipl-designer-art-director{
+    font-size: 10px;
+  }
+  .quotes1{
+    font-size: 10px;
+  }
+  .go-to-documentation-button1{
+    font-size: 18px;
+  }
+  .go-to-documentation-container1{
+    top: 28%;
+  }
+  .david-ring-small-13{
+    width: 50px;
+    height: 50px;
+  }
+  .skr-cengil-dipl-container{
+    left: 60px;
+  }
+  .easy-and-art1{
+    font-size: 22px;
+  }
+  .real-time-physics-easy-container1{
+    font-size: 27px;
+  }
+  .ultimate-control-using1{
+    font-size: 18px;
+  }
+  .animate-like-a-container1{
+    font-size: 27px;
+  }
+  .make-it-your1{
+    font-size: 22px;
+  }
+  .lazy-rigging2{
+    font-size: 27px;
+  }
+  .art-direction1{
+    font-size: 22px;
+  }
+  .art-direction-in-container2{
+    font-size: 27px;
+  }
+  .and-real-time-physics1{
+    font-size: 20px;
+  }
+  .logo-plume{
+  height: 32px;
+  }
+  .logo-design-real{
+  height: 15px;
+  top: 5px;
+  } 
+  .logo-experience{
+  height: 21px;
+  }
+  .logo-mondlicht{
+  height: 50px;
+  top: 8px;
+  }
+  .vid-real-time-demo-04-11{
+    height: 0px;
+    top: 40px;
+  }
+  .vid-multi-16-9-21{
+    height: 0px;
+    top: 740px;
+  }
+  .vid-physics-16-9-11{
+    height: 0px;
+    top: 740px;
+  }
+  .car-models{
+    top: 1680px;
+    left: 0;
+    width: 100%;
+  }
+  .headlights{
+    top: 1260px;
+    left: 356px;
+    width: 100%;
+  }
+  .ackerman-steering1{
+    top: 1260px;
+    left: 0;
+    width: 100%;
+  }
+  .camber-caster2{
+    top: 840px;
+    left: 0;
+    width: 100%;
+  }
+  .ground-detection4{
+    top: 840px;
+    left: 356px;
+    width: 100%;
+  }
+  .speedometer1{
+    top: 420px;
+    left: 356px;
+    width: 100%;
+  }
+  .skidmark{
+    top: 420px;
+    left: 0;
+    width: 100%;
+  }
+  .multi-workflow1{
+    top: 0;
+    left: 356px;
+    width: 100%;
+  }
+  .unreal-export1{
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+  .car-models-included-container,
+  .lc-comes-packed{
+    width: 250px;
+  }
+  .vid-detect-16-9-11{
+    width: 100%;
+  }
+  .vid-skidmarks-21{
+    width: 100%;
+  }
+  .promo-pics-02-1-icon{
+    width: 100%;
+  }
+}
