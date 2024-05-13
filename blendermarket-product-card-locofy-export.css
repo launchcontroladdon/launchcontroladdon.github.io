@@ -702,7 +702,7 @@
 }
 .new-multi-car-madness-container1 {
   position: absolute;
-  top: 694px;
+  top: 724px;
   left: 20px;
   display: inline-block;
   width: 650px;
@@ -718,14 +718,14 @@
 }
 .vid-multi-16-9-21 {
   position: absolute;
-  top: 779px;
+  top: 809px;
   left: 0;
   width: 50%;
   height: 222px;
 }
 .vid-physics-16-9-11 {
   position: relative;
-  top: 779px;
+  top: 809px;
   left: 49.9%;
   width: 50%;
   height: 222px;
@@ -750,6 +750,15 @@
   width: 90%;
   color: var(--color-white);
 }
+.launch-control-15-container2 {
+  position: relative;
+  top: 0;
+  top: 20px;
+  left: 20px;
+  line-height: 20px;
+  width: 90%;
+  color: var(--color-white);
+}
 .discord-server,
 .documentation4 {
   position: absolute;
@@ -768,7 +777,7 @@
 }
 .frame39 {
   position: absolute;
-  top: 970px;
+  top: 1000px;
   width: 100%;
   height: 280px;
   overflow: hidden;
